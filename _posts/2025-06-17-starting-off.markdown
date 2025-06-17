@@ -4,26 +4,23 @@ title:  "Starting off. let's see what happens!"
 date:   2025-06-16 22:30:29 +0500
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+People say internet is not as powerful as it used to be back in the day. 
+i think they mean google - search systems, world wide web when referring to the internet. 
+maybe it is true. maybe it is not. but that is the only internet we've got. so, who cares?! 
+internet has been the main source of discovering new ideas since i got my personal computer 
+two years ago.  
 
-Jekyll requires blog post files to be named according to the following format:
+now, i wanna use it to share my ideas and symbolic stories like this: 
+'everyone in that town never knew what environmentalism was. they used gas for running their machines, factories, farms and incubators. 
+then someone learned about that word called "environment", and stopped using gas for better cause and future of humanity. others
+followed him for the common good and better cause. facturies stopped and that town went bunckrupt. but our fellow environmentalists
+kept persevering: never giving up as they were told on those youtube videos. they had to prove that they are right! so, they even stopped using
+gas at their homes even. then winter came... everyone died and town became a gost town. i wish they could see how much great life and the future
+of humanity became after them.'
 
-`YEAR-MONTH-DAY-title.MARKUP`
+just made it up now. could be better though. apart from meaningless stories, i write about books, 
+engineering, music and art. so, yeah, i am starting off. engines are ready. game is on. 
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
