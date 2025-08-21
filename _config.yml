@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Antenna | to'g'ri chastotaga tushdingiz...
+title: Shohruh O'ralov | Personal blog 
 email: shohruhoralov54@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  mazmunli va mazmunsiz maqola, esse va hikoyalar to'plami.  
+   collection of my engineering projects  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: '@shohruh29'
